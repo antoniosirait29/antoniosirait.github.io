@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e5e1da;
+}
+
+body {
+  background-color: #f3f4f5;
+  scroll-behavior: smooth;
+}
+
+#porto {
+  background-color: #e5e1da;
+}
